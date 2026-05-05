@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+dataset/
+logs/
+website/
+docs-minimind/
+official_model/
+model_learn_tokenizer/
+examples/data_preprocess/*_data
+out/*
+!out/pretrain_512.pth
