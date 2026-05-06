@@ -12,3 +12,4 @@ model_learn_tokenizer/
 examples/data_preprocess/*_data
 out/*
 !out/pretrain_512.pth
+*.exe
