@@ -5,7 +5,6 @@ __pycache__/
 .idea/
 dataset/
 website/
-logs/
 docs-minimind/
 official_model/
 model_learn_tokenizer/
